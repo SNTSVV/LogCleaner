@@ -1,0 +1,5 @@
+_LogCleaner.log
+.idea
+venv
+*.pyc
+.DS_Store
